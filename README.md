@@ -8,7 +8,8 @@ Built with love, rounded corners, blur, sliders, and keybinds that make sense âœ
 
 ## ðŸ“¸ Preview
 
-> *(Insert screenshot of your desktop here)*
+<img width="1366" height="768" alt="Fri" src="https://github.com/user-attachments/assets/8007d524-3f40-473e-915d-4880a5ae5d68" />
+
 
 ---
 
