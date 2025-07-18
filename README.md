@@ -28,7 +28,7 @@ Built with love, rounded corners, blur, sliders, and keybinds that make sense âœ
 
 Clone and run the setup:
 ``` bash
-git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
+git clone https://github.com/Tirth3/ArcticI3.git ~/dotfiles
 cd ~/dotfiles
 chmod +x install.sh
 ./install.sh
