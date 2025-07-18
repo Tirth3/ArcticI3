@@ -1,0 +1,18 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+    show-icons: true;
+    display-drun: "  Run:";
+    drun-display-format: "{name}";
+    icon-theme: "Papirus-Dark";
+    fullscreen: false;
+    width: 30;
+    lines: 8;
+    columns: 1;
+    padding: 20;
+    fixed-num-lines: true;
+    disable-history: false;
+    sidebar-mode: false;
+    opacity: "90";
+    dpi: 96;
+}
+@theme "material"
