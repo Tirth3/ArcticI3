@@ -1,6 +1,6 @@
-# 🌿 dotfiles — i3wm Rice Setup with ZSH, Polybar, Dunst, and Animations
+# 🌿 dotfiles — i3wm Rice Setup
 
-This is my personal rice for a soothing, aesthetic, and minimal Linux desktop using **i3wm**, **picom-jonaburg**, **polybar**, **dunst**, and **zsh**.
+This is my personal rice for a soothing, aesthetic, and minimal Linux desktop using **i3wm**, **picom**, **polybar**, **dunst**, and **zsh**.
 
 Built with love, rounded corners, blur, sliders, and keybinds that make sense ✨
 
@@ -17,10 +17,9 @@ Built with love, rounded corners, blur, sliders, and keybinds that make sense �
 
 - 🔲 **i3wm** – clean tiling window manager with keybinds & floating rules
 - 🎛 **Polybar** – transparent, themed bar with workspaces, battery, volume, etc.
-- 🕊 **Picom (jonaburg)** – rounded corners, fade-in/out, opening/closing animations
+- 🕊 **Picom** – rounded corners, fade-in/out
 - 🔔 **Dunst** – notification daemon with slider OSD for volume & brightness
 - 🐚 **Zsh** – Powerlevel10k prompt, autosuggestions, syntax highlighting
-- 🎨 **Pywal** – generate colors from wallpaper and sync with your rice
 - 🌗 **Lo-fi aesthetic** – subtle colors, clean layout, smooth workflow
 
 ---
